@@ -2,5 +2,5 @@
 using namespace sdt;
 void main()
 {
-cout<<"Hello";
+cout<<"Hello"<<" world";
 }
